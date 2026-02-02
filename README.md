@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🌱 I’m an ACS student currently learning java
-- he/him
+- 🌱 I’m an ACS student currecntly in the 12th grade.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-ander-hristov&show_icons=true)
